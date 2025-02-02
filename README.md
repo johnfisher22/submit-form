@@ -1,2 +1,2 @@
 # submit-form
-Submit frontend HTML form to Spring Boot backend
+Submit frontend HTML CSS form to Spring Boot backend
